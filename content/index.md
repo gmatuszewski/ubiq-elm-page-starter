@@ -1,17 +1,16 @@
 ---
-title: elm-pages-starter - a simple blog starter
+title: Grégory Matuszewski - Project Manager, Small Business Owner, and Consultant in Paris, France
 type: page
 ---
 
-TEST
 
-TESTESTESTES
 
-This is an example repo to get you up and running with `elm-pages`.
+## Consultant indépendant, Paris, France.
 
-The entrypoint file is `index.js`. That file imports `src/Main.elm`. The `content` folder is turned into your static pages. The rest is mostly determined by logic in the Elm code! Learn more with the resources below.
+Mobilité, ITS, direction de projets, négociation, médiation.
 
-## Learn more about `elm-pages`
+
+## WORK
 
 - Documentation site: https://elm-pages.com
 - [Elm Package docs](https://package.elm-lang.org/packages/dillonkearns/elm-pages/latest/)
