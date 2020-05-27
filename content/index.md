@@ -7,7 +7,9 @@ type: page
 
 ## Consultant indépendant, Paris, France.
 
-Mobilité, ITS, direction de projets, négociation, médiation.
+<div align="center">Mobilité, ITS</div>
+
+<div align="center">direction de projets, négociation, médiation.</div>
 
 
 ## WORK
