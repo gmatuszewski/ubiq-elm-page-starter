@@ -11,6 +11,8 @@ Mobilité, ITS
 
 direction de projets, négociation, médiation.
 
+Lean Management
+
 
 ## WORK
 
